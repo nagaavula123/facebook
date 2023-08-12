@@ -1,3 +1,2 @@
-This line is updated
 This file contains the string utilities...
 
